@@ -1,0 +1,361 @@
+{
+  "Subject" : {
+    "computerArchitecture" : {
+      "subjectAud" : "лекционная",
+      "subjectHours" : "20",
+      "subjectLector" : "AXZlZIrS3ueBEolDTR6RrjF56cy1",
+      "subjectName" : "Архитектура компьютера",
+      "subjectType" : "лекция"
+    },
+    "diskretnaMathLecture" : {
+      "subjectAud" : "лекционная",
+      "subjectHours" : 18,
+      "subjectLector" : "BoPGAtD2cmeBKJvsqNN1voHdmuf2",
+      "subjectName" : "Компьютерная дискретная математика",
+      "subjectType" : "Лекция"
+    },
+    "historyOfUkrainianCulture" : {
+      "subjcetType" : "семинар",
+      "subjectAud" : "семинарская",
+      "subjectHours" : "18",
+      "subjectLector" : "jabfj8jUipNXFlzlgBhp0Zq4RYE2",
+      "subjectName" : "История Украины и украинской культуры"
+    },
+    "matemAnalysis" : {
+      "subjectAud" : "лабораторная",
+      "subjectHours" : 10,
+      "subjectLector" : "ayBoJg8XLvNVVkAmE5hbBzqltF83",
+      "subjectName" : "Математический анализ",
+      "subjectType" : "лабораторная"
+    },
+    "osnoviProgr" : {
+      "subjectAud" : "лабораторная",
+      "subjectHours" : 42,
+      "subjectLector" : "P6ZEPnEeQnNDy6KKulHe8MbMtKM2",
+      "subjectName" : "Основы программирования",
+      "subjectType" : "Лабораторная"
+    },
+    "sport" : {
+      "subjectAud" : "-",
+      "subjectHours" : "18",
+      "subjectLector" : "cHx6tAShR8NG6H1fpbnoRk4iQYq1",
+      "subjectName" : "Физическое воспитание",
+      "subjectType" : "-"
+    },
+    "ukrainianLanguage" : {
+      "subjectAud" : "семинарская",
+      "subjectHours" : "12",
+      "subjectLector" : "IPNVG4oJO0gKFT7bOuvKXdoM2HO2",
+      "subjectName" : "Украинский язык",
+      "subjectType" : "семинар"
+    }
+  },
+  "classRooms" : {
+    "room601" : {
+      "roomBuilding" : "главный",
+      "roomFloor" : 6,
+      "roomNumber" : 601,
+      "roomPlaces" : 24,
+      "roomType" : "компьютерная"
+    }
+  },
+  "lectors" : {
+    "AXZlZIrS3ueBEolDTR6RrjF56cy1" : {
+      "FIO" : "Столяров Александр Илларионович",
+      "birthDate" : "01/01/2000",
+      "email" : "example@gmail.com",
+      "job" : "lecturer",
+      "wishes" : "----"
+    },
+    "IPNVG4oJO0gKFT7bOuvKXdoM2HO2" : {
+      "FIO" : "Соломахин Андрей Федорович",
+      "birthDate" : "01.01.2000",
+      "email" : "example@gmail.com",
+      "job" : "lecturer",
+      "wishes" : "----"
+    },
+    "P6ZEPnEeQnNDy6KKulHe8MbMtKM2" : {
+      "FIO" : "Осипова Наталья Владимировна",
+      "birthDate" : "01.01.2000",
+      "email" : "example@gmail.com",
+      "job" : "lecturer",
+      "wishes" : "----"
+    },
+    "ayBoJg8XLvNVVkAmE5hbBzqltF83" : {
+      "FIO" : "Наборова Валентина Александровна",
+      "birthDate" : "01.01.2000",
+      "email" : "example@gmail.com",
+      "job" : "lecturer",
+      "wishes" : "----"
+    },
+    "cHx6tAShR8NG6H1fpbnoRk4iQYq1" : {
+      "FIO" : "Кильницкий А.",
+      "birthDate" : "01.10.2000",
+      "email" : "example@gmail.com",
+      "job" : "lecturer",
+      "wishes" : "----"
+    },
+    "jabfj8jUipNXFlzlgBhp0Zq4RYE2" : {
+      "FIO" : "Геринбург О.",
+      "birthDate" : "01/01/2000",
+      "email" : "example@gmail.com",
+      "job" : "lecturer",
+      "wishes" : "------"
+    },
+    "userID" : {
+      "FIO" : "test user",
+      "birthDate" : "01/01/2000",
+      "email" : "example@example.com",
+      "job" : "student",
+      "wishes" : "хочу чего то"
+    }
+  },
+  "messages" : {
+    "-L9p5L__fca8jH_ayAcy" : {
+      "fromId" : "fgxtKdxEMraAydCaZ4QOywsWCiw1",
+      "text" : "Hello",
+      "timestamp" : 1523456764,
+      "toId" : "hF5MDLRflsaAKJIGqkIR2z3cGH23"
+    },
+    "-L9qZCVSJLBEBaW11oIe" : {
+      "fromId" : "hF5MDLRflsaAKJIGqkIR2z3cGH23",
+      "text" : "Пп",
+      "timestamp" : 545174168,
+      "toId" : "fgxtKdxEMraAydCaZ4QOywsWCiw1"
+    },
+    "-L9qd8kCgtE2fFWV4lj3" : {
+      "fromId" : "IBDrb2oW8gYGUEvn5nbGCzR7hd93",
+      "text" : "Hey",
+      "timestamp" : 545175463,
+      "toId" : "IBDrb2oW8gYGUEvn5nbGCzR7hd93"
+    },
+    "-L9qdAILJ1xS8TnaeM5V" : {
+      "fromId" : "IBDrb2oW8gYGUEvn5nbGCzR7hd93",
+      "text" : "He",
+      "timestamp" : 545175470,
+      "toId" : "IBDrb2oW8gYGUEvn5nbGCzR7hd93"
+    },
+    "-L9qdUZ1n4FWSK4gDVud" : {
+      "fromId" : "IBDrb2oW8gYGUEvn5nbGCzR7hd93",
+      "text" : "Ghnh",
+      "timestamp" : 545175553,
+      "toId" : "IBDrb2oW8gYGUEvn5nbGCzR7hd93"
+    },
+    "-L9qdXcKm9ut7_M2qsRY" : {
+      "fromId" : "IBDrb2oW8gYGUEvn5nbGCzR7hd93",
+      "text" : "Hey",
+      "timestamp" : 545175565,
+      "toId" : "fgxtKdxEMraAydCaZ4QOywsWCiw1"
+    },
+    "-L9qdlDFoD2VShAuLcM6" : {
+      "fromId" : "hF5MDLRflsaAKJIGqkIR2z3cGH23",
+      "text" : "Hey friend! Here the offer for 69.99",
+      "timestamp" : 545175625,
+      "toId" : "IBDrb2oW8gYGUEvn5nbGCzR7hd93"
+    },
+    "-L9qds-iv46Asxz2f2_8" : {
+      "fromId" : "hF5MDLRflsaAKJIGqkIR2z3cGH23",
+      "imageHeight" : 750,
+      "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/ksu-social-network.appspot.com/o/message_images%2F9BAAF152-D194-43D1-85E1-CA7D32C82611?alt=media&token=d64ff9e6-7ddf-4152-889c-e29c15cc8347",
+      "imageWidth" : 750,
+      "timestamp" : 545175653,
+      "toId" : "DHngVXj2gTRGN5cEx3CaG0r5Q063"
+    },
+    "-L9qdxBtZQPfkgQ1KHIw" : {
+      "fromId" : "hF5MDLRflsaAKJIGqkIR2z3cGH23",
+      "text" : "New back to future film is coming ",
+      "timestamp" : 545175674,
+      "toId" : "DHngVXj2gTRGN5cEx3CaG0r5Q063"
+    },
+    "-L9qe4LIsU1BsvbfaNUk" : {
+      "fromId" : "hF5MDLRflsaAKJIGqkIR2z3cGH23",
+      "text" : "Hey dude, how r u?",
+      "timestamp" : 545175708,
+      "toId" : "De5QjSrjmWUa0sImBF4Rk2VAOMW2"
+    },
+    "-L9qe9ly1pDW2ZoBdLL0" : {
+      "fromId" : "hF5MDLRflsaAKJIGqkIR2z3cGH23",
+      "text" : " Hey, who are you man?",
+      "timestamp" : 545175730,
+      "toId" : "Bvq5CmZ85kZVx1LkoM4TFvodDml2"
+    },
+    "-L9tTIPCnaYgeu5UmDN_" : {
+      "fromId" : "fgxtKdxEMraAydCaZ4QOywsWCiw1",
+      "text" : "How are you",
+      "timestamp" : 545222952,
+      "toId" : "IBDrb2oW8gYGUEvn5nbGCzR7hd93"
+    },
+    "-L9tTIvZAtT2WPbiA0VE" : {
+      "fromId" : "fgxtKdxEMraAydCaZ4QOywsWCiw1",
+      "text" : "How are you",
+      "timestamp" : 545222954,
+      "toId" : "IBDrb2oW8gYGUEvn5nbGCzR7hd93"
+    },
+    "-L9tTJBVJis0x4l8Mp51" : {
+      "fromId" : "fgxtKdxEMraAydCaZ4QOywsWCiw1",
+      "text" : "How are you",
+      "timestamp" : 545222955,
+      "toId" : "IBDrb2oW8gYGUEvn5nbGCzR7hd93"
+    },
+    "-L9tU7loPqkhdKFvrxpY" : {
+      "fromId" : "fgxtKdxEMraAydCaZ4QOywsWCiw1",
+      "text" : "1",
+      "timestamp" : 545223171,
+      "toId" : "hF5MDLRflsaAKJIGqkIR2z3cGH23"
+    },
+    "-L9tU83gY07fczuU7v-h" : {
+      "fromId" : "fgxtKdxEMraAydCaZ4QOywsWCiw1",
+      "text" : "",
+      "timestamp" : 545223172,
+      "toId" : "hF5MDLRflsaAKJIGqkIR2z3cGH23"
+    },
+    "-L9tU86wjHLR5-UWhS0x" : {
+      "fromId" : "fgxtKdxEMraAydCaZ4QOywsWCiw1",
+      "text" : "",
+      "timestamp" : 545223172,
+      "toId" : "hF5MDLRflsaAKJIGqkIR2z3cGH23"
+    },
+    "-L9tUD6xj-EO5JjvUKVz" : {
+      "fromId" : "fgxtKdxEMraAydCaZ4QOywsWCiw1",
+      "text" : "OLX",
+      "timestamp" : 545223192,
+      "toId" : "hF5MDLRflsaAKJIGqkIR2z3cGH23"
+    },
+    "-L9tUFSfKPALwIIce1vp" : {
+      "fromId" : "fgxtKdxEMraAydCaZ4QOywsWCiw1",
+      "text" : "TEST MESSAGE",
+      "timestamp" : 545223202,
+      "toId" : "hF5MDLRflsaAKJIGqkIR2z3cGH23"
+    },
+    "-L9tXVHhNv53rlNbgVVw" : {
+      "fromId" : "fgxtKdxEMraAydCaZ4QOywsWCiw1",
+      "text" : "Hello",
+      "timestamp" : 545224053,
+      "toId" : "oL7zzXdZZ0VGjh48LpwiytUWIMN2"
+    },
+    "-L9te6lljn43KJ_obrNB" : {
+      "fromId" : "fgxtKdxEMraAydCaZ4QOywsWCiw1",
+      "text" : "Test message",
+      "timestamp" : 545226050,
+      "toId" : "oL7zzXdZZ0VGjh48LpwiytUWIMN2"
+    },
+    "-LASDumIbBHw6h0j5QJi" : {
+      "fromId" : "hF5MDLRflsaAKJIGqkIR2z3cGH23",
+      "text" : "Qq epta",
+      "timestamp" : 545822898,
+      "toId" : "IBDrb2oW8gYGUEvn5nbGCzR7hd93"
+    },
+    "-LASDyDRAG1FCV3QwX24" : {
+      "fromId" : "fgxtKdxEMraAydCaZ4QOywsWCiw1",
+      "text" : "Бля",
+      "timestamp" : 545822912,
+      "toId" : "hF5MDLRflsaAKJIGqkIR2z3cGH23"
+    },
+    "-LASE0qAkg08dYNUinoA" : {
+      "fromId" : "fgxtKdxEMraAydCaZ4QOywsWCiw1",
+      "text" : "Работает?",
+      "timestamp" : 545822927,
+      "toId" : "hF5MDLRflsaAKJIGqkIR2z3cGH23"
+    },
+    "-LASE9B3FvLwXJefNKUZ" : {
+      "fromId" : "fgxtKdxEMraAydCaZ4QOywsWCiw1",
+      "text" : "Ну",
+      "timestamp" : 545822961,
+      "toId" : "hF5MDLRflsaAKJIGqkIR2z3cGH23"
+    },
+    "-LASEBvCXPyHcqFwBpm2" : {
+      "fromId" : "hF5MDLRflsaAKJIGqkIR2z3cGH23",
+      "text" : "Qq epta",
+      "timestamp" : 545822972,
+      "toId" : "fgxtKdxEMraAydCaZ4QOywsWCiw1"
+    },
+    "-LAXNQa2sDvBgQ2Bhz7b" : {
+      "fromId" : "hF5MDLRflsaAKJIGqkIR2z3cGH23",
+      "text" : "Fgjj",
+      "timestamp" : 545909278,
+      "toId" : "IBDrb2oW8gYGUEvn5nbGCzR7hd93"
+    }
+  },
+  "users" : {
+    "AXZlZIrS3ueBEolDTR6RrjF56cy1" : {
+      "email" : "stolyarov@gmail.com",
+      "job" : "professor",
+      "name" : "Столяров ",
+      "password" : "password",
+      "profileImageUrl" : "#",
+      "role" : "user",
+      "userID" : "AXZlZIrS3ueBEolDTR6RrjF56cy1"
+    },
+    "BoPGAtD2cmeBKJvsqNN1voHdmuf2" : {
+      "email" : "chernenko@gmail.com",
+      "job" : "professor",
+      "name" : "Черненко Ирина",
+      "password" : "password",
+      "profileImageUrl" : "https://firebasestorage.googleapis.com/v0/b/ksu-socialnetwork-app.appspot.com/o/users%2FBoPGAtD2cmeBKJvsqNN1voHdmuf2?alt=media&token=8912dca0-28d4-4dc8-b404-4cf1ae1bdfae",
+      "role" : "user",
+      "userID" : "BoPGAtD2cmeBKJvsqNN1voHdmuf2"
+    },
+    "IPNVG4oJO0gKFT7bOuvKXdoM2HO2" : {
+      "email" : "solomahin@gmail.com",
+      "job" : "professor",
+      "name" : "Соломахин",
+      "password" : "password",
+      "profileImageUrl" : "#",
+      "role" : "user",
+      "userID" : "IPNVG4oJO0gKFT7bOuvKXdoM2HO2"
+    },
+    "MV6qfbfZmhVk9zzV8i9y2M2lKJJ3" : {
+      "email" : "dubenuk@gmail.com",
+      "job" : "professor",
+      "name" : "Александр",
+      "password" : "password",
+      "profileImageUrl" : "#",
+      "role" : "user",
+      "userID" : "MV6qfbfZmhVk9zzV8i9y2M2lKJJ3"
+    },
+    "P6ZEPnEeQnNDy6KKulHe8MbMtKM2" : {
+      "email" : "osipova@gmail.com",
+      "job" : "professor",
+      "name" : "Осипова",
+      "password" : "password",
+      "profileImageUrl" : "#",
+      "role" : "user",
+      "userID" : "P6ZEPnEeQnNDy6KKulHe8MbMtKM2"
+    },
+    "ayBoJg8XLvNVVkAmE5hbBzqltF83" : {
+      "email" : "naborova@gmail.com",
+      "job" : "professor",
+      "name" : "Наборова",
+      "password" : "password",
+      "profileImageUrl" : "#",
+      "role" : "user",
+      "userID" : "ayBoJg8XLvNVVkAmE5hbBzqltF83"
+    },
+    "cHx6tAShR8NG6H1fpbnoRk4iQYq1" : {
+      "email" : "kilnickiy@gmail.com",
+      "job" : "Professor",
+      "name" : "Кильницкий",
+      "profileImageUrl" : "#",
+      "role" : "user",
+      "userID" : "cHx6tAShR8NG6H1fpbnoRk4iQYq1"
+    },
+    "jabfj8jUipNXFlzlgBhp0Zq4RYE2" : {
+      "email" : "gerinburg@gmail.com",
+      "job" : "professor",
+      "name" : "Геринбург О.",
+      "password" : "password",
+      "profileImageUrl" : "#",
+      "role" : "user",
+      "userID" : "jabfj8jUipNXFlzlgBhp0Zq4RYE2"
+    },
+    "omi2ioelVzUIQdAXAItKZCTmOMs2" : {
+      "email" : "matveev@gmail.com",
+      "job" : "student",
+      "name" : "matveev",
+      "password" : "password",
+      "profileImageUrl" : "https://firebasestorage.googleapis.com/v0/b/ksu-socialnetwork-app.appspot.com/o/users%2Fomi2ioelVzUIQdAXAItKZCTmOMs2?alt=media&token=44fcd409-9faf-4057-8b2e-c58f1f279690",
+      "role" : "user",
+      "userID" : "omi2ioelVzUIQdAXAItKZCTmOMs2"
+    }
+  }
+}
